@@ -28,3 +28,8 @@
   <li><a href="#">Bibliografía recomendada (próximamente)</a></li>
 </ul>
 <p>Este blog ha sido creado con fines educativos y divulgativos por [Tu Nombre]. Contacta para sugerencias, aportes o colaboración.</p>
+/prensa-en-guerra/
+    ├── index.html
+    ├── arriba.html
+    └── /img/
+         └── portada_arriba.jpg
