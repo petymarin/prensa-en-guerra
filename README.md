@@ -27,9 +27,4 @@
   <li><a href="https://www.europeana.eu" target="_blank">Europeana</a></li>
   <li><a href="#">Bibliografía recomendada (próximamente)</a></li>
 </ul>
-<p>Este blog ha sido creado con fines educativos y divulgativos por [Tu Nombre]. Contacta para sugerencias, aportes o colaboración.</p>
-/prensa-en-guerra/
-    ├── index.html
-    ├── arriba.html
-    └── /img/
-         └── portada_arriba.jpg
+<p>Este blog ha sido creado con fines educativos y divulgativos por [Ana, Juan, Daniel, Marta e Ignacio]. Contacta para sugerencias, aportes o colaboración.</p> +34 664333217
